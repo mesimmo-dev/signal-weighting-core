@@ -1,0 +1,21 @@
+{
+  "name": "signal-weighting-core",
+  "version": "0.1.0",
+  "description": "Minimal TypeScript scoring core for weighting signals across structured review inputs.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [
+    "typescript",
+    "signal-weighting",
+    "evaluation",
+    "decision-support",
+    "review-workflows"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.0.0"
+  }
+}
